@@ -1,0 +1,26 @@
+body {
+  background-color: #232323;
+}
+
+.square {
+  width: 30%;
+  background: purple;
+  padding-bottom: 30%;
+  margin: 1.66%;
+  float: left;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+h1,
+h4 {
+  color: white;
+  text-align: center;
+}
+
+span {
+  color: white;
+}
