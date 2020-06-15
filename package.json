@@ -1,0 +1,22 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "rgb color game by rrg",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanRajGautam/color-game.git"
+  },
+  "author": "rohan gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohanRajGautam/color-game/issues"
+  },
+  "homepage": "https://rohanrajgautam.github.io/color-game",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
