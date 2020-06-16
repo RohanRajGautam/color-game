@@ -54,7 +54,7 @@ resetColor.addEventListener("click", function () {
   for (var i = 0; i < square.length; i++) {
     square[i].style.backgroundColor = color[i];
   }
-  headingColor.style.backgroundColor = "#232323";
+  headingColor.style.backgroundColor = "steelblue";
 });
 
 colorDisplay.textContent = pickedColor;
@@ -70,7 +70,7 @@ for (var i = 0; i < square.length; i++) {
 
     //compare it with the picked color
     if (clickedColor === pickedColor) {
-      displayMessage.textContent = "Correct";
+      displayMessage.textContent = "Correct!!!";
       changeColor(pickedColor);
       headingColor.style.backgroundColor = pickedColor;
       resetColor.textContent = "Play Again?";
