@@ -47,6 +47,9 @@ resetColor.addEventListener("click", function () {
   //pick a random color
   pickedColor = pickColor();
 
+  //blank space in middle
+  displayMessage.textContent = "";
+
   //change colorDisplay to pickedCOlor
   colorDisplay.textContent = pickedColor;
 
