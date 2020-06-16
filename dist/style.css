@@ -21,6 +21,9 @@ h4 {
   text-align: center;
 }
 
-span {
-  color: white;
+#stripe {
+  background-color: white;
+  color: black;
+  text-align: center;
+  height: 30px;
 }
