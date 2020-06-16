@@ -27,3 +27,7 @@ h4 {
   text-align: center;
   height: 30px;
 }
+
+.selected {
+  background-color: blue;
+}
