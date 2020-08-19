@@ -1,5 +1,11 @@
 <h1 align="center">RGB Color Game</h1><br>
 
+---
+
+![preview](https://i.imgur.com/21EdaZV.png)
+
+---
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
